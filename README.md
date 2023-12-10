@@ -19,6 +19,8 @@
 </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/1MSVKRopegDjYONwdF/giphy.gif" width="300" height="300"/>
+  <!img src="https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif" width="500" height="300"/>
+  
 </div>
 </div>
 
